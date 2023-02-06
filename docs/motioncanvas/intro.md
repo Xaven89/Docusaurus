@@ -10,7 +10,7 @@ Switch in your project directory and start the project with.
 npm run serve
 ```
 
-You can access the editor via **[http//:localhost:9000/](http//:localhost:9000/)**
+You can access the editor via http//:localhost:9000/
 
 # Official Documentation
 
